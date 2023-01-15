@@ -22,7 +22,7 @@ Cypress.Commands.add('isRequired', (targetMessage) => {
         .should((text) => {
             expect(
                 targetMessage
-            ).to.eq(tex)
+            ).to.eq(text)
 
         })
 
