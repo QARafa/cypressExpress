@@ -1,0 +1,13 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes e2e Mark L",
+  "main": "index.js",
+  "author": "Rafael Moreira",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@shelex/cypress-allure-plugin": "^2.34.0",
+    "cypress": "12.2.0"
+  }
+}
