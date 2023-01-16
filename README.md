@@ -16,6 +16,7 @@ Repositório tem como função armazenar o Projeto do portal e curso em Cypress 
 
 * Testes Ponta a Ponta
 
+Configuração do ambiente/
 Criar um projeto do inicio/ 
 Refinamento dos elemento/ 
 Dados dinâmincos utilizando Faker/ 
@@ -25,13 +26,16 @@ Consulmindo API junto a UI
 * Aprimoramento dos Testes
 
 Testes independentes/ 
-Contexto/
-Utilização dos Custons Commands/
-Validação de Texto utilizando Invoke/
-Utilização IF junto com a Constante/
-Reuso de Codigo
+ Contexto/
+ Utilização dos Custons Commands/
+ Validação de Texto utilizando Invoke/
+ Utilização do IF/
+ Localização e validação Utilizando CSS STYLE/
+ Reuso de Codigo/
+
 
 
 * Configurações e  Boas Práticas
 
+Utilização do fix/ Viwerport Size/ Rodando o teste via CLI/ Falhas e Screeshots/ Allure Plugin 
 
